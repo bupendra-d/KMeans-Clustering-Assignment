@@ -38,7 +38,6 @@ The model successfully grouped customers into **five distinct clusters**, each r
 
 
 📂 Repository Contents
-- Customer_segmentation.ipynb
-- Wholesale customers data.csv
+- `Customer_segmentation.ipynb`
 - `Wholesale customers data.csv`
 - `README.md`
